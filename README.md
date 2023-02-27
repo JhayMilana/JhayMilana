@@ -30,10 +30,4 @@ and has grown with me since I was young.
 
 ## My Stats 
 
-<a href="https://github.com/JhayMilana">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=mrspecht&theme=vue&show_icons=true" alt="My GitHub stats" />
-</a>
-<a href="https://github.com/JhayMilana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrespecht&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
-  GitHub stats"/>
-</a>
+![Jhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhayMilana&theme=dracula&show_icons=true)
