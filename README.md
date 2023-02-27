@@ -31,3 +31,4 @@ and has grown with me since I was young.
 ## My Stats 
 
 ![Jhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhayMilana&theme=dracula&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhayMilana)](https://github.com/JhayMilana/github-readme-stats)
